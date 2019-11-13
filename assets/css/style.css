@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 header {
-    box-shadow: 0 0 4px 0 #222;
+    box-shadow: 0 0 2px 0 #222;
     position: relative;
     z-index: 10;
 }
