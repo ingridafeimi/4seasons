@@ -65,9 +65,3 @@ footer {
     background-size: cover;
 }
 
-@media (max-width: 767.98px) {
-    .carousel-item {
-        height: 24rem;
-    }
-}
-
