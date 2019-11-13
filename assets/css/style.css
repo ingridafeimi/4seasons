@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400|Yeon+Sung&display=swap');
+
+.body {
+    font-family: Montserrat, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: Montserrat, sans-serif;
+}
+
+.navbar {
+    justify-content: center;
+}
+
+.navbar-brand {
+    font-family: 'Yeon Sung', cursive;
+    font-size: 40px;
+    color: #555;
+
+}
+
+.navbar-brand:hover {
+    color: #555;
+}
+
+
+#work-in-progres p, #contact p {
+    font-weight: 300;
+    font-size: 20px;
+}
+
+#contact h2 {
+    border-bottom: 1px dashed #dedede;
+    padding-bottom: 15px;
+}
+
+header {
+    box-shadow: 0 0 4px 0 #222;
+    position: relative;
+    z-index: 10;
+}
+
+footer {
+    padding: 30px 0;
+    background: #fefafa;
+}
+
